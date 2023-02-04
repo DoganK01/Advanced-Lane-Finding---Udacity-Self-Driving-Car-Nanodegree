@@ -1,7 +1,7 @@
 # Project 4 - Advanced Lane Finding
 
 <p align="center">
- <a href="https://www.youtube.com/watch?v=g5BhDtoheE4"><img src="./img/overview.gif" alt="Overview" width="50%" height="50%"></a>
+ <a href="https://www.youtube.com/watch?v=3485xzexZbs&ab_channel=do%C4%9Fankeskin"><img src="./img/overview.gif" alt="Overview" width="50%" height="50%"></a>
  <br>Qualitative results. (click for full video)
 </p>
 
