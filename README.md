@@ -205,8 +205,3 @@ The qualitative result for one of the given test images follows:
 </p>
 
 All other test images can be found in [./output_images/](./output_images/)
-
-###Pipeline (video)
-
-####1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
-
